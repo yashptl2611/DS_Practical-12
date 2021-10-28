@@ -1,1 +1,2 @@
-# DS_Practical-12
+# Exploratory Data Analysis (EDA)
+Exploratory Data Analysis (EDA) is the process of gaining a better understanding of data sets by analyzing and visualizing their primary properties. This stage is critical, especially when it comes to classifying the data to apply Machine Learning. Histograms, Box plots, Scatter plots, and other plotting options are available in EDA. Exploring the data can take a long time. We can ask to define the problem statement or definition on our extremely significant data collection through the EDA method.
